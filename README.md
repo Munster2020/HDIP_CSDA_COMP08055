@@ -32,6 +32,8 @@ Include a Jupyter notebook called scipy-stats.ipynb that contains the following.
 
 7. Student dataset: [students.csv](https://github.com/Munster2020/HDIP_CSDA_COMP08055/blob/main/students.csv)
 
+If you have any issues viewing the jupyter notebooks in github you can use Jupyter NBViewer which is a web application behind The Jupyter Notebook Viewer at https://nbviewer.jupyter.org/
+
 ### 4. Software used
 ![logo](https://github.com/Munster2020/HDIP_CSDA_COMP08050_PROJECT/blob/main/images/JupyterN.png "Jupyter")
 Jupyter is a free, open-source, interactive web tool known as a computational notebook, which researchers can use to combine software code, computational output, explanatory text and multimedia resources in a single document. (Source:downloads.com)
@@ -41,5 +43,5 @@ Cmdr provides you with an alternative to the Windows default command prompt util
 
 ### 5. Repository download instructions
 Search for user Munster2020, the repository is called HDIP_CSDA_COMP08055. Click on the green button to clone.
-git clone https://git@github.com:Munster2020/HDIP_CSDA_COMP08055.git
+- git clone https://git@github.com:Munster2020/HDIP_CSDA_COMP08055.git
 
