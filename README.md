@@ -6,12 +6,11 @@ The purpose of this assessment is to provide an overview the learning outcomes o
 employers.
 
 ### 1. Repository Structure
-1. Readme:
-[README.md](https://github.com/Munster2020/HDIP_CSDA_COMP08055/blob/main/README.md)
+1. Readme: [README.md](https://github.com/Munster2020/HDIP_CSDA_COMP08055/blob/main/README.md)
 
-2. Jupyter Notebooks:
-[scikit-learn.ipynb](https://github.com/Munster2020/HDIP_CSDA_COMP08055/blob/main/scikit-learn.ipynb)
-[scipy-stats.ipynb](https://github.com/Munster2020/HDIP_CSDA_COMP08055/blob/main/scipy-stats.ipynb)
+2. Scikit-Learn Jupyter Notebooks: [scikit-learn.ipynb](https://github.com/Munster2020/HDIP_CSDA_COMP08055/blob/main/scikit-learn.ipynb)
+
+3. Scipy-Stats Jupyter Notebook: [scipy-stats.ipynb](https://github.com/Munster2020/HDIP_CSDA_COMP08055/blob/main/scipy-stats.ipynb)
 
 ### 2. Software used
 
