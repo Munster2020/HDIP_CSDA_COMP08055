@@ -8,11 +8,24 @@ employers.
 ### 1. Repository Structure
 1. Readme: [README.md](https://github.com/Munster2020/HDIP_CSDA_COMP08055/blob/main/README.md)
 
-2. Scikit-Learn Jupyter Notebooks: [scikit-learn.ipynb](https://github.com/Munster2020/HDIP_CSDA_COMP08055/blob/main/scikit-learn.ipynb)
+2. Scikit-Learn Jupyter Notebook: [scikit-learn.ipynb](https://github.com/Munster2020/HDIP_CSDA_COMP08055/blob/main/scikit-learn.ipynb)
 
 3. Scipy-Stats Jupyter Notebook: [scipy-stats.ipynb](https://github.com/Munster2020/HDIP_CSDA_COMP08055/blob/main/scipy-stats.ipynb)
 
+4. Wine dataset: [winequality-white.csv](https://github.com/Munster2020/HDIP_CSDA_COMP08055/blob/main/winequality-white.csv.csv)
+
+5. Housing dataset: [USA_Housing.csv](https://github.com/Munster2020/HDIP_CSDA_COMP08055/blob/main/USA_Housing.csv)
+
+6. Titanic dataset: [titanic.csv](https://github.com/Munster2020/HDIP_CSDA_COMP08055/blob/main/titanic.csv)
+
+7. Student dataset: [students.csv](https://github.com/Munster2020/HDIP_CSDA_COMP08055/blob/main/students.csv)
+
 ### 2. Software used
+![logo](https://github.com/Munster2020/HDIP_CSDA_COMP08050_PROJECT/blob/main/images/JupyterN.png "Jupyter")
+![Jupyter](https://jupyter.org/) Jupyter is a free, open-source, interactive web tool known as a computational notebook, which researchers can use to combine software code, computational output, explanatory text and multimedia resources in a single document. (Source:downloads.com)
+
+![logo](https://github.com/Munster2020/HDIP_CSDA_COMP08050_PROJECT/blob/main/images/cmdr.png "Cmder")
+![Cmdr](https://cmder.net/) provides you with an alternative to the Windows default command prompt utility through a more capable console emulator that also comes packing a good-looking graphical user interface. (Source:downloads.com)
 
 ### 3. Scikit-Learn Jupyter Notebook
 Include a Jupyter notebook called scikit-learn.ipynb that contains the following.
