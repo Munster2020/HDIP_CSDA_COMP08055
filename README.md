@@ -9,6 +9,10 @@ employers.
 1. Readme:
 [README.md](https://github.com/Munster2020/HDIP_CSDA_COMP08055/blob/main/README.md)
 
+2. Jupyter Notebooks:
+[scikit-learn.ipynb](https://github.com/Munster2020/HDIP_CSDA_COMP08055/blob/main/scikit-learn.ipynb)
+[scipy-stats.ipynb](https://github.com/Munster2020/HDIP_CSDA_COMP08055/blob/main/scipy-stats.ipynb)
+
 ### 2. Software used
 
 ### 3. Scikit-Learn Jupyter Notebook
