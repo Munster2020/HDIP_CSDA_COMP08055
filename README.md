@@ -32,6 +32,8 @@ Include a Jupyter notebook called scipy-stats.ipynb that contains the following.
 
 7. Student dataset: [students.csv](https://github.com/Munster2020/HDIP_CSDA_COMP08055/blob/main/students.csv)
 
+8. Requirements: [requirements.txt](https://github.com/Munster2020/HDIP_CSDA_COMP08055/blob/main/requirements.txt)
+
 If you have any issues viewing the jupyter notebooks in github you can use Jupyter NBViewer which is a web application behind The Jupyter Notebook Viewer at https://nbviewer.jupyter.org/
 
 ### 4. Software used
