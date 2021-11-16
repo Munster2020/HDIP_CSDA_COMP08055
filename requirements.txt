@@ -1,0 +1,18 @@
+autopep8            1.5.3
+matplotlib          3.2.2
+numpy               1.18.5
+pandas              1.0.5
+scipy               1.5.0
+seaborn             0.10.1
+session_info        1.0.0
+sklearn             0.23.1
+IPython             7.16.1
+jupyter_client      6.1.6
+jupyter_core        4.6.3
+jupyterlab          2.1.5
+notebook            6.0.3
+-----
+Python 3.8.3 (default, Jul  2 2020, 17:30:36) [MSC v.1916 64 bit (AMD64)]
+Windows-10-10.0.19041-SP0
+-----
+Session information updated at 2021-11-16 13:57
