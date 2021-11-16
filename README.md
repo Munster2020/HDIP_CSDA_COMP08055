@@ -6,6 +6,8 @@ The purpose of this assessment is to provide an overview the learning outcomes o
 employers.
 
 ### 1. Repository Structure
+1. Readme:
+[README.md](https://github.com/Munster2020/HDIP_CSDA_COMP08055/blob/main/README.md)
 
 ### 2. Software used
 
