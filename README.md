@@ -5,7 +5,19 @@
 The purpose of this assessment is to provide an overview the learning outcomes of the module while also providing sample work to show prospective
 employers.
 
-### 1. Repository Structure
+### 1. Scikit-Learn Jupyter Notebook
+Include a Jupyter notebook called scikit-learn.ipynb that contains the following.
+- A clear and concise overview of the scikit-learn Python library.
+- Demonstrations of three interesting scikit-learn algorithms. You may choose these yourself, based on what is covered in class or otherwise. Note that the demonstrations are at your discretion – you may choose to have an overall spread of examples across the library or pick a particular part that you find interesting.
+ - Appropriate plots and other visualisations to enhance your notebook for viewers.
+
+### 2. Scipy Stats Jupyter Notebook
+Include a Jupyter notebook called scipy-stats.ipynb that contains the following.
+- A clear and concise overview of the scipy.stats Python library.
+- An example hypothesis test using ANOVA. You should find a data set on which it is appropriate to use ANOVA, ensure the assumptions underlying ANOVA are met, and then perform and display the results of your ANOVA using scipy.stats.
+- Appropriate plots and other visualisations to enhance your notebook for viewers.
+
+### 3. Repository Structure
 1. Readme: [README.md](https://github.com/Munster2020/HDIP_CSDA_COMP08055/blob/main/README.md)
 
 2. Scikit-Learn Jupyter Notebook: [scikit-learn.ipynb](https://github.com/Munster2020/HDIP_CSDA_COMP08055/blob/main/scikit-learn.ipynb)
@@ -20,22 +32,14 @@ employers.
 
 7. Student dataset: [students.csv](https://github.com/Munster2020/HDIP_CSDA_COMP08055/blob/main/students.csv)
 
-### 2. Software used
+### 4. Software used
 ![logo](https://github.com/Munster2020/HDIP_CSDA_COMP08050_PROJECT/blob/main/images/JupyterN.png "Jupyter")
 Jupyter is a free, open-source, interactive web tool known as a computational notebook, which researchers can use to combine software code, computational output, explanatory text and multimedia resources in a single document. (Source:downloads.com)
 
 ![logo](https://github.com/Munster2020/HDIP_CSDA_COMP08050_PROJECT/blob/main/images/cmdr.png "Cmder")
 Cmdr provides you with an alternative to the Windows default command prompt utility through a more capable console emulator that also comes packing a good-looking graphical user interface. (Source:downloads.com)
 
-### 3. Scikit-Learn Jupyter Notebook
-Include a Jupyter notebook called scikit-learn.ipynb that contains the following.
-- A clear and concise overview of the scikit-learn Python library.
-- Demonstrations of three interesting scikit-learn algorithms. You may choose these yourself, based on what is covered in class or otherwise. Note that the demonstrations are at your discretion – you may choose to have an overall spread of examples across the library or pick a particular part that you find interesting.
- - Appropriate plots and other visualisations to enhance your notebook for viewers.
-
-### 4. Scipy Stats Jupyter Notebook
-Include a Jupyter notebook called scipy-stats.ipynb that contains the following.
-- A clear and concise overview of the scipy.stats Python library.
-- An example hypothesis test using ANOVA. You should find a data set on which it is appropriate to use ANOVA, ensure the assumptions underlying ANOVA are met, and then perform and display the results of your ANOVA using scipy.stats.
-- Appropriate plots and other visualisations to enhance your notebook for viewers.
+### 5. Repository download instructions
+Search for user Munster2020, the repository is called HDIP_CSDA_COMP08055. Click on the green button to clone.
+git clone https://git@github.com:Munster2020/HDIP_CSDA_COMP08055.git
 
